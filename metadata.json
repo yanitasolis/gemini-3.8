@@ -1,0 +1,6 @@
+{
+  "name": "Gemini 3.8 Español",
+  "description": "Estudio inteligente avanzado impulsado por Gemini 3.8 en español con chat, análisis de imágenes, síntesis de voz, generación y asistencia de proyectos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
